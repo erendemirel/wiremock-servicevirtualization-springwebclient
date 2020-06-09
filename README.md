@@ -5,3 +5,4 @@ This is a sample test project to demonstrate service virtualization and API mock
   <br/>
 ### Notes
 https://github.com/JensPiegsa/wiremock-extension is used to enable Junit 5 annotations to be used together with WireMock
+The data, service is expected to return is under src/main/resources/files/service-returned-data.json
